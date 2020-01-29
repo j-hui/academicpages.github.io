@@ -6,37 +6,37 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Software Systems Laboratory"
-title_separator          : "-"
-name                     : &name "Software Systems Laborator"
-description              : &description "Columbia University"
-url                      : https://j-hui.github.io # base hostname
-baseurl                  : "/academicpages.github.io" # subpath of your site
-repository               : "columbia/columbia.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+locale              : "en-US"
+title               : "Software Systems Laboratory"
+title_separator     : "-"
+name                : &name "Software Systems Laborator"
+description         : &description "Columbia University"
+url                 : https://columbia.github.io # base hostname
+baseurl             : "" # subpath of your site, must begin with '/' if non-empty
+repository          : "columbia/columbia.github.io"
+teaser              :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs         : false # true, false (default)
+words_per_minute    : 160
+future              : true
+read_more           : "disabled" # if enabled, adds "Read more" links to excerpts
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  allowedFields     : ['name', 'email', 'url', 'message']
+  branch            : "gh-pages" # "master", "gh-pages"
+  commitMessage     : "New comment."
+  filename          : comment-{@timestamp}
+  format            : "yml"
+  moderation        : true
+  path              : "_data/comments/{options.slug}"
+  requiredFields    : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email           : "md5"
   generatedFields:
     date:
-      type               : "date"
+      type          : "date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format      : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 # atom_feed:
-#   path                   : # blank (default) uses feed.xml
+#   path              : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :

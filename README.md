@@ -45,6 +45,8 @@ instructions that came with [academicpages][academicpages]:
     `localhost:4000`. The local server will automatically rebuild and refresh
     the pages on change.
 
+And here is Jekyll's own [installation guide][jekyll-install].
+
 The reason you might want to serve locally is because if you want assets to load
 properly on `github.io`, you need to configure the `url` and `baseurl` in
 [`_config.yml`][config] to point to your own GitHub Pages subdomain, e.g.:
@@ -52,7 +54,8 @@ properly on `github.io`, you need to configure the `url` and `baseurl` in
     url     : https://j-hui.github.io # base hostname
     baseurl : "/academicpages.github.io" # subpath of your site
 
-And here is Jekyll's own [installation guide][jekyll-install].
+And it takes a little while (like a minute, a lot longer in dog-minutes)
+for the GitHub Pages site to reflect your changes.
 
 [jekyll-install]: https://jekyllrb.com/docs/installation/
 
