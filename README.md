@@ -50,7 +50,7 @@ properly on `github.io`, you need to configure the `url` and `baseurl` in
 [`_config.yml`][config] to point to your own GitHub Pages subdomain, e.g.:
 
     url     : https://j-hui.github.io # base hostname
-    baseurl : "academicpages.github.io" # subpath of your site
+    baseurl : "/academicpages.github.io" # subpath of your site
 
 And here is Jekyll's own [installation guide][jekyll-install].
 
