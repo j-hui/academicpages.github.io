@@ -23,38 +23,67 @@ privacy, security, and software engineering.
 
 [cucs]: https://cs.columbia.edu/
 
+----
+
+
 ## <a name="faculty"/>Faculty
 
--   ![Roxana Geambasu][roxana-img]
-    [**Roxana Geambasu**][roxana]
 
--   ![Ronghui Gu][ronghui-img]
-    [**Ronghui Gu**][ronghui]
+<div id="photos">
+<div class="row">
+<li class="col-lg-4 col-md-4 col-sm-4 col-xs-4" style="">
+<div class="photo" style="background-image:url(images/faculty/roxana.png);'"></div>
+<div> <a href="http://www.cs.columbia.edu/~roxana" target="_blank" class="faculty">
+    Roxana Geambasu
+</a> </div>
+</li>
+<li class="col-lg-4 col-md-4 col-sm-4 col-xs-4 person" style="">
+<div class="photo" style="background-image:url(images/faculty/gu.png);'"></div>
+<div> <a href="http://www.cs.columbia.edu/~rgu" target="_blank" class="faculty">
+    Ronghui Gu
+</a> </div>
+</li>
+<li class="col-lg-4 col-md-4 col-sm-4 col-xs-4 person" style="">
+<div class="photo" style="background-image:url(images/faculty/gail.png);'"></div>
+<div> <a href="http://www.cs.columbia.edu/~kaiser" target="_blank" class="faculty">
+    Gail Kaiser
+</a> </div>
+</li>
+<li class="col-lg-4 col-md-4 col-sm-4 col-xs-4 person" style="">
+<div class="photo" style="background-image:url(images/faculty/nieh.png);'"></div>
+<div>
+<a href="http://www.cs.columbia.edu/~nieh" target="_blank" class="faculty">
+        Jason Nieh
+</a>
+<br>
+<a class="position">
+    (Co-Director)
+</a>
+</div>
+</li>
+<li class="col-lg-4 col-md-4 col-sm-4 col-xs-4 person" style="">
+<div class="photo" style="background-image:url(images/faculty/baishakhi.png);'"></div>
+<div> <a href="http://rayb.info" target="_blank" class="faculty">
+    Baishakhi Ray
+</a> </div>
+</li>
+<li class="col-lg-4 col-md-4 col-sm-4 col-xs-4 person" style="">
+<div class="photo" style="background-image:url(images/faculty/yang.png);'"></div>
+<div>
+<a href="http://www.cs.columbia.edu/~junfeng" target="_blank" class="faculty">
+    Junfeng Yang
+</a>
+<br>
+<a class="position">
+    (Co-Director)
+</a>
+</div>
+</li>
+</div>
+</div>
 
--   ![Gail Kaiser][gail-img]
-    [**Gail Kaisler**][gail]
 
--   ![Jason Nieh][nieh-img]
-    [**Jason Nieh**][nieh] (Co-Director)
-
--   ![Baishakhi Ray][baishakhi-img]
-    [**Baishakhi Ray**][baishakhi]
-
--   ![Junfeng Yang][junfeng-img]
-    [**Junfeng Yang**][junfeng] (Co-Director)
-
-[roxana]: https://www.cs.columbia.edu/~roxana
-[roxana-img]: images/faculty/roxana.png#faculty
-[ronghui]: https://www.cs.columbia.edu/~rgu
-[ronghui-img]: images/faculty/gu.png#faculty
-[gail]: https://www.cs.columbia.edu/~kaiser
-[gail-img]: images/faculty/gail.png#faculty
-[nieh]: https://www.cs.columbia.edu/~nieh
-[nieh-img]: images/faculty/nieh.png#faculty
-[baishakhi]: http://rayb.info
-[baishakhi-img]: images/faculty/baishakhi.png#faculty
-[junfeng]: https://www.cs.columbia.edu/~junfeng
-[junfeng-img]: images/faculty/yang.png#faculty
+----
 
 
 ## <a name="students"/>Students
@@ -102,6 +131,9 @@ privacy, security, and software engineering.
 [dwk]:          http://www.cs.columbia.edu/~dwk/
 [xinhaoyuan]:   http://www.xinhaoyuan.net/
 [aiasd]:        https://aiasd.github.io/
+
+
+----
 
 
 ## <a name="alumni"/>Alumni

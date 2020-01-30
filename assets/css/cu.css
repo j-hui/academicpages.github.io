@@ -10,6 +10,7 @@ ul {
 
 li {
   list-style-type: none;
+  font-size: 80%;
 }
 
 img[src*="#faculty"] {
@@ -46,6 +47,38 @@ li strong {
 
 li em {
     font-style: normal;
-    font-size: 90%;
+    /* font-size: 80%; */
     font-weight: 200;
+}
+
+.photo {
+    background-size: cover;
+    display: block;
+    width: 128px;
+    height: 128px;
+    clear: both;
+    margin-bottom: 5px;
+    border-radius: 50%;
+}
+
+.faculty {
+    /* font-size: 80%; */
+    line-height: 0.96;
+}
+
+.position {
+    font-size: 69%;
+    line-height: 0.96;
+}
+
+#photos div li {
+    list-style: none;
+    /* margin: 25px; */
+    width: 155px;
+    padding: 0px;
+    padding-bottom: 10px;
+    padding-bottom: 15px;
+    text-align: center;
+    text-align: -webkit-center;
+    line-height: 0.75;
 }
