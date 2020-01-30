@@ -14,7 +14,7 @@ description         : &description "Columbia University"
 # url                 : https://columbia.github.io # base hostname
 # baseurl             : "" # subpath of your site, must begin with '/' if non-empty
 url                 : https://j-hui.github.io # base hostname
-baseurl             : "/academicpages.github.io" # subpath of your site, must begin with '/' if non-empty
+baseurl             : "/academicpages.github.io/" # subpath of your site, must begin with '/' if non-empty
 repository          : "columbia/columbia.github.io"
 teaser              :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs         : false # true, false (default)
