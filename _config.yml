@@ -9,8 +9,8 @@
 locale              : "en-US"
 title               : "Software Systems Laboratory"
 title_separator     : "-"
-name                : &name "Software Systems Laborator"
-description         : &description "Columbia University"
+name                : &name "Software Systems Laboratory" # used for copyright
+description         : &description "Columbia University"  # used for copyright
 # url                 : https://columbia.github.io # base hostname
 # baseurl             : "" # subpath of your site, must begin with '/' if non-empty
 url                 : https://j-hui.github.io # base hostname
