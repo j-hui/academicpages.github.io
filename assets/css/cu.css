@@ -41,5 +41,11 @@ li a:active {
 }
 
 li strong {
-    font-weight: 540;
+    font-weight: 400;
+}
+
+li em {
+    font-style: normal;
+    font-size: 90%;
+    font-weight: 200;
 }
