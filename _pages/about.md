@@ -12,7 +12,10 @@ redirect_from:
   - /about.html
 ---
 
+<h2 id="about">
 <a name="about"/>
+</h2>
+
 The Software Systems Laboratory (SSL) pursues basic research in all aspects of
 the design, implementation, evaluation, and verification of software systems.
 We conduct research with systems at all scales, from handheld devices to cloud
