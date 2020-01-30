@@ -1,0 +1,47 @@
+ul {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  list-style: none;
+  list-style-type: none;
+  padding: 0;
+  -webkit-padding-start: 0;
+}
+
+li {
+  list-style-type: none;
+  font-size: 100%;
+}
+
+img[src*="#faculty"] {
+   width:128px;
+   height:128px;
+   border: 1px solid black;
+   border-radius: 50%;
+   display: inline-block;
+}
+
+li a:link {
+  text-decoration: none;
+  color: black;
+}
+
+li a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+li a:hover {
+  text-decoration: none;
+  color: grey;
+}
+
+li a:active {
+  text-decoration: none;
+  color: grey;
+}
+
+li strong {
+    font-size: 100%;
+    font-weight: 540;
+}
